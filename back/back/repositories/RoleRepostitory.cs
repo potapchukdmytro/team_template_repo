@@ -2,5 +2,9 @@
 {
     public class RoleRepostitory
     {
+        public void AddRole()
+        {
+
+        }
     }
 }
